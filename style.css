@@ -167,6 +167,7 @@ body{
 .restaurant__4{
     width:100%;
     height: 100%;
+    border-radius: 5px;
 }
 
 .email__update__container{

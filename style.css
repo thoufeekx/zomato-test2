@@ -167,6 +167,61 @@ body{
     height: 100%;
 }
 
+.email__update__container{
+    width: 100%;
+}
+
+.email__update__text{
+    text-align: justify;
+    margin-top: 50px;
+}
+
+.email__update__content{
+    width: 100%;
+    
+}
+.email__update__emailbox{
+    width: 100%;
+    
+   
+}
+
+.email__input{
+    border-color: red;
+    border-radius: 6px;
+   
+}
+
+
+.quote__container{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.quote__picture{
+    width: 100%;
+   
+    position: relative;
+}
+
+.quote__picture1{
+    
+    width: 100%;
+   height: 100%;
+   border-radius: 8px;
+    
+}
+.quote__quote{
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    width:80%;
+    position: absolute;
+    top:30%;
+    left:10%;
+
+}
+
 
 
 
@@ -236,6 +291,43 @@ body{
     font-size: 40px;
 }
 
+
+
+
+.email__update__text{
+    display: flex;
+    justify-content: left;
+    font-size: 30px;
+    padding-left: 18%;
+}
+    
+
+.email__update__emailbox{
+    padding-top: 10px;
+    display: flex;
+   gap:10px;
+    justify-content: center;
+}
+
+.email__input{
+    width: 50%;
+}
+
+
+.quote__quote{
+   
+    color: #fff;
+    font-size: 40px;
+    width:90%;
+    position: absolute;
+    left: 5%;
+   
+
+}
+
+
+
+
 }
 
 
@@ -295,7 +387,34 @@ body{
     font-size: 50px;
 }
 
+.email__update__text{
+    display: flex;
+    justify-content: left;
+    font-size: 45px;
+    padding-left: 28%;
 }
 
+.email__input{
+    width: 30%;
+    height: 30px;
+}
 
+#email__button__view{
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
 
+.quote__quote{
+   
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    width:95%;
+    position: absolute;
+    left: 1%;
+    top:40%;
+   
+
+}
+
+}
